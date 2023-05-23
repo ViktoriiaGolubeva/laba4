@@ -1,0 +1,4 @@
+﻿  Assembling Source.asm...
+Source.asm(1): error A2008: syntax error : .
+Source.asm(68): warning A6004: procedure argument or local not referenced : C
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: выход из команды "ml64.exe /c /nologo /Zi /Fo"x64\Release\Source.obj" /W3 /errorReport:prompt  /TaSource.asm" с кодом "1".
